@@ -1,0 +1,10 @@
+[package]
+name = "assoc_files"
+version = "0.1.0"
+authors = [
+	"myrrlyn <myrrlyn@outlook.com>",
+]
+
+[dependencies]
+appdirs = "0.2"
+walkdir = "1"

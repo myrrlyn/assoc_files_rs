@@ -1,0 +1,2 @@
+I am contained in a subdirectory of the source material, but will end up as a
+root-level file in the installation target.

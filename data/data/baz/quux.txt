@@ -1,0 +1,3 @@
+I am a deeply nested file, and will retain some of my nesting after installation
+to the system. Specifically, I live in data/baz in the source material, and will
+be placed in $target/baz as a result of installation.

@@ -1,0 +1,1 @@
+I am a root-level file that will be copied directly.
